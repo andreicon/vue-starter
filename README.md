@@ -1,4 +1,4 @@
-# strag-vue
+# vue-starter
 
 ## Project setup
 ```
